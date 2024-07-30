@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com Análise e Visualização de dados em [Bem da Madrugada](https://www.bemdamadrugada.org/)
 
-- 🌱 Atualmente estou aprendendo **Python e Ciência de Dados e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Python, Ciência de Dados e Machine Learning**
 
 - 💬 Me pergunte sobre **Python, Django, SQL**
 
