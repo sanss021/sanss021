@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou trabalhando com Análise e Visualização de dados em [Bem da Madrugada](https://www.bemdamadrugada.org/)
 
-- 🌱 Atualmente estou aprendendo **Python, Ciência de Dados e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Python, Ciência de Dados, Machine Learning e SQL**
 
-- 💬 Me pergunte sobre **Python, Django, SQL**
+- 💬 Me pergunte sobre **Python, Django**
 
 - 📫 Você me acha através do e-mail **smlmonteiroum@gmail.com**
 
