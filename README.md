@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, Ciência de Dados, Machine Learning e SQL**
 
-- 💬 Me pergunte sobre **Python e Django**
+- 💬 Me pergunte sobre **Python**
 
 - 📫 Você me acha através do e-mail **smlmonteiroum@gmail.com**
 
