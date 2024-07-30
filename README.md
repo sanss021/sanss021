@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Samuel Silva</h1>
-<h3 align="center">Apaixonado pela ciência e análise de dados.</h3>
+<h3 align="center">Apaixonado por Ciência e Análise de dados.</h3>
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Bem da Madrugada](https://www.bemdamadrugada.org/)
+- 🔭 Atualmente estou trabalhando com Análise e Visualização de dados em [Bem da Madrugada](https://www.bemdamadrugada.org/)
 
 - 🌱 Atualmente estou aprendendo **Python e Ciência de Dados e Machine Learning**
 
@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do e-mail **smlmonteiroum@gmail.com**
 
-- 📄 Conheça algumas das minhas experiências [https://www.linkedin.com/in/samuel-silva-web/](https://www.linkedin.com/in/samuel-silva-web/)
+- 📄 Conheça algumas de minhas experiências [https://www.linkedin.com/in/samuel-silva-web/](https://www.linkedin.com/in/samuel-silva-web/)
 
 - ⚡ Gosto de **Praticar Esportes e fazer Músicas**
 
